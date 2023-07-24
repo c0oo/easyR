@@ -1,0 +1,15 @@
+Package: easyR
+Title: Easy_R: Simple R Package for Basic Data Analysis and Visualization
+Version: 0.1.0
+Authors@R: 
+    person("Cornelius", "Mareis", email = "Co.Mareis@campus.lmu.de", role = c("aut", "cre"))
+Maintainer: Cornelius Mareis <Co.Mareis@campus.lmu.de>
+Description: easy_R is an R package that provides simple functions to perform basic data analysis and visualization tasks effortlessly.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports:
+    ggplot2
+
